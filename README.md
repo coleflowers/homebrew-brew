@@ -23,3 +23,6 @@ brew install coleflowers/brew/proto2json
 
 contain : sgml2html, sgml2latex, sgml2rtf, sgmlcheck, sgmlsasp, onsgmls, ospam, ospent, rtf2rtf, sgml2info, sgml2lyx, sgml2txt, sgmlpre
 
+```
+brew install coleflowers/brew/linuxdoc
+```
