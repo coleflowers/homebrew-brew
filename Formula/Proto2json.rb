@@ -1,9 +1,9 @@
 class Proto2json < Formula
   desc "proto文件转json"
   homepage "https://github.com/coleflowers"
-  url "https://github.com/thinkcn/proto2json/releases/download/Beta1.0.4/proto2json-Beta1.0.4-macos-brew.tar.gz"
-  sha256 "225419f0994d3443513729922116196bfa7d9408ca3cf5f6019b511e850af594"
-  version "Beta1.0.4"
+  url "https://github.com/thinkcn/proto2json/releases/download/Beta1.0.5/proto2json-Beta1.0.5-macos-brew.tar.gz"
+  sha256 "52a96274264409b5b28fa2c19cdb31c381ca18e31a9dcbe8b572e453f50b50a8"
+  version "Beta1.0.5"
   def install
     bin.install "proto2json"
   end
