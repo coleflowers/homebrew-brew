@@ -26,3 +26,9 @@ contain : sgml2html, sgml2latex, sgml2rtf, sgmlcheck, sgmlsasp, onsgmls, ospam, 
 ```
 brew install coleflowers/brew/linuxdoc
 ```
+
+## upx
+
+```
+brew install coleflowers/brew/upx
+```
