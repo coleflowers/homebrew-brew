@@ -29,6 +29,8 @@ brew install coleflowers/brew/linuxdoc
 
 ## upx
 
+Just for architecture arm64. If result for your computer execute `arch` is "x86_64", it is not support! 
+
 ```
 brew install coleflowers/brew/upx
 ```
